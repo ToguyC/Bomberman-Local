@@ -16,7 +16,7 @@ touches :
 2. Joueur 2
 * Haut = aller vers le haut.
 * Bas = aller vers vers la gauche.
-* Gauche = aller vers le bas.
+* &#8592; = aller vers le bas.
 * Droite = aller vers la droite.
 * NumPad 0 = poser une bombe
 
@@ -26,8 +26,7 @@ Le jeu comporte 2 types de boost :
 * les augmentation de rayon de l'explosion. (boost jaune)
 * les augmentation de nombre de bombes posable. (boost bleu)
 
-Nous nous sommes inspirez du jeu officiel 
-**[Bomberman](http://fr.wikipedia.org/wiki/Bomberman "link to bomberman")**
+Nous nous sommes inspirez du jeu officiel **[Bomberman](http://fr.wikipedia.org/wiki/Bomberman "link to bomberman")**.
 
 
 **Bon amusement !!!!**
