@@ -27,7 +27,7 @@ Le jeu comporte 2 types de boost :
 * les augmentation de nombre de bombes posable. (boost bleu)
 
 Nous nous sommes inspirez du jeu officiel 
-**[Bomberman]** (http://fr.wikipedia.org/wiki/Bomberman "link to bomberman")
+**[Bomberman]**(http://fr.wikipedia.org/wiki/Bomberman "link to bomberman")
 
 
 **Bon amusement !!!!**
