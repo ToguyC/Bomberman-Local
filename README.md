@@ -26,4 +26,5 @@ Le jeu comporte 2 types de boost :
 ⋅⋅* les augmentation de rayon de l'explosion. (boost jaune)
 ⋅⋅* les augmentation de nombre de bombes posable. (boost bleu)
 
-##Bon amusement !!!!
+Bon amusement !!!!
+--
