@@ -14,10 +14,10 @@ touches :
 * D = aller vers la droite.
 * Space = poser une bombe
 2. Joueur 2
-* Haut = aller vers le haut.
-* Bas = aller vers vers la gauche.
-* &#8592; = aller vers le bas.
-* Droite = aller vers la droite.
+* &#8593; = aller vers le haut.
+* &#8595; = aller vers vers le bas.
+* &#8592; = aller vers la gauche.
+* &#8594; = aller vers la droite.
 * NumPad 0 = poser une bombe
 
 Le but du jeu est de touché l'adversaire avec une de ses explosion de bombe.
